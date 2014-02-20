@@ -6,7 +6,7 @@ module.exports = Animate;
 /**
  * query dependency
  */
-var query = require('query');
+var query = require('component-query');
 
 /**
  * private variables

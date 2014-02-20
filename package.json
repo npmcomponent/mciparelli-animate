@@ -1,0 +1,10 @@
+{
+  "name": "mciparelli-animate",
+  "description": "Convenient API for handling CSS3 animations easily with Javascript",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-query": "git://github.com/npmcomponent/component-query.git"
+  },
+  "license": "MIT"
+}
